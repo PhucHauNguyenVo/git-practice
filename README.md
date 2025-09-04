@@ -1,1 +1,1 @@
-Đây là README được chỉnh sửa bởi nhánh B.
+Đây là README được chỉnh sửa bởi nhánh main.
