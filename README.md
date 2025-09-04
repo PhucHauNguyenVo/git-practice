@@ -1,4 +1,5 @@
 # Git Practice
+Đây là README được chỉnh sửa bởi nhánh main.
 
 Đây là README được chỉnh sửa từ nhánh main (mới) & conflict-demo-v2.
 
